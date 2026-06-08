@@ -1,0 +1,29 @@
+#compiled output
+*.exe
+*.out
+*.app
+
+#object files
+*.o 
+*.obj 
+
+#debug files
+*.log
+
+#build folders
+build/
+cmake-build-*/
+
+#VS Code
+.vscode/
+
+#Code::Blocks
+*.depend
+*.layot
+*.cbp
+
+#Mac files
+.DS_Store
+
+#Windows files
+Thumbs.db 
